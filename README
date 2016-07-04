@@ -1,4 +1,3 @@
-1) Download seXY.R and XY_data.txt
-2) XY_data.txt contains X heterozygosity and Y missingness values of the training set that are used to fit a logistic regression model
-3) Obtain genotype data from X and Y chromosomes in either PLINK format (*.ped) or GenomeStudio matrix format (*.txt)
-4) Enter the required inputs for seXY.R (header lines) and run code in R
+1) Download seXY.R and XY_data.txt. XY_data.txt contains X heterozygosity and Y missingness values of the training set that are used to fit a logistic regression model
+2) Obtain genotype data from X and Y chromosomes in either PLINK format (*.ped) or GenomeStudio matrix format (*.txt)
+3) Enter the required inputs for seXY.R (header lines) and run code in R
