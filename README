@@ -1,4 +1,4 @@
-XY_data.txt contains PLINK "F-statistics", X chromosome heterozygosity, and Y chromosome missingness of individuals in the TRAINING SET (sibjects in prostate cancer and ovarian cancer GWAS) that are used to fit a logistic regression model.
+XY_data.txt contains PLINK "F-statistics", X chromosome heterozygosity, and Y chromosome missingness of individuals in the TRAINING SET (subjects in prostate cancer and ovarian cancer GWAS) that are used to fit a logistic regression model.
 
 1) Download seXY.R and XY_data.txt. 
 
