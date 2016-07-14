@@ -2,6 +2,6 @@ XY_data.txt contains PLINK "F-statistics", X chromosome heterozygosity, and Y ch
 
 1) Download seXY.R and XY_data.txt. 
 
-2) Obtain TEST SET genotype data from X and Y chromosomes in either PLINK format (*.ped) or GenomeStudio matrix format (*.txt)
+2) Obtain TEST SET genotype data from X and Y chromosomes in either PLINK format (*.ped) or GenomeStudio matrix format (*.txt).
 
-3) Enter the required inputs for seXY.R (header lines) and run code in R
+3) Enter the required inputs for seXY.R (header lines) and run code in R.
