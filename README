@@ -6,4 +6,4 @@ XY_data.txt contains PLINK "F-statistics", X chromosome heterozygosity, and Y ch
 
 3) Enter the required inputs for seXY.R (header lines) and run code in R. Alternatively, seXY_commandline.R can be run from the commandline in the same directory as input files.
 Ex 1. "Rscript --vanilla seXY_commandline.R PLINK GWAS_X.ped GWAS_Y.ped"
-Ex 2. "Rscript --vanilla seXY_commandline.R GS GWAS_X.ped GWAS_Y.ped"
+Ex 2. "Rscript --vanilla seXY_commandline.R GS GWAS_X.txt GWAS_Y.txt"
